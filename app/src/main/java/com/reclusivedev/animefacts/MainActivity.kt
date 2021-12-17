@@ -52,6 +52,8 @@ class MainActivity : AppCompatActivity() {
 
                     animeRV.adapter = adapter
                 }
+                //This is a comment, to try github contribution and fuck you,
+                //enda utafute gas
             }
 
             override fun onFailure(call: Call<AnimeList?>, t: Throwable) {
